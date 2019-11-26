@@ -1,0 +1,7 @@
+Bundle-Name: dms-web
+Bundle-SymbolicName: com.tc.demo.dms
+Bundle-Version: 1.0.0
+Export-Package: \
+	com.tc.demo.dms.constants,\
+	com.tc.demo.dms.service.permission	
+ 
