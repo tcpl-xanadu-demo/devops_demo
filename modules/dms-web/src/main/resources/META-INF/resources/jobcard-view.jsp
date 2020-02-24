@@ -471,7 +471,7 @@ $(document).ready(function(){
                                     <i class="fas fa-car-side"></i>
                                 </div>
                                 <header>
-                                    <h3 class="thin">Delivery Done</h3>
+                                    <h3 class="thin">Delivery Ready</h3>
                                 </header>
                             </div>
                         </div>
